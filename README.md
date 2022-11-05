@@ -1,16 +1,11 @@
-### Hi there 👋
+#### Hi, my name is Alexander. 
 
-<!--
-**pearleascent/pearleascent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in developing various software with C++ and Go.
+<br>
+I do backend development, parsing and desktop application development.
+<br>
+<br>
+For development, I use IDEs such as Visual Studio + Clion and Goland.
+<br>
+<br>
+Contacts: [Telegram](https://t.me/moneycollector), pearleascent#8102
