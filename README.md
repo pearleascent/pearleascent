@@ -11,7 +11,6 @@ I do backend development, parsing and desktop application development.
 **Node.JS**: vue3 / express / koa <br>
 **Databases**: mysql / mongodb / redis<br>
 <br>
-<br>
 For development, I use IDEs such as Visual Studio, Clion and Goland.
 <br>
 <br>
