@@ -7,7 +7,7 @@ I do backend development, parsing and desktop application development.
 <br>
 **Technology stack**: <br>
 **C++**: stl / dx9 / imgui<br>
-**Golang**: gorm / fiber / gin / chromedp <br>
+**Golang**: gorm / fiber / gin / rabbitmq / chromedp <br>
 **Node.JS**: vue3 / express / koa <br>
 **Databases**: mysql / mongodb / redis<br>
 <br>
